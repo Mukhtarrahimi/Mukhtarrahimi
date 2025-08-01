@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukhtar Rahimi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=🚀+Aspiring+Software+Engineer;💻+Frontend+Developer+%7C+Problem+Solver;🎯+Lifelong+Learner+%7C+Clean+UI+Lover;🔥+Currently+learning+Full-Stack+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=500&lines=Software+Engineer+in+Making;Frontend+Developer;Lifelong+Learner;Passionate+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <div align="center">
