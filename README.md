@@ -29,7 +29,7 @@
 
 #### 🛠 Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vscode,github,git,ps" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vscode,github,git,ps,django" />
 </p>
 
 ---
