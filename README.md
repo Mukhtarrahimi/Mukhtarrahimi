@@ -43,7 +43,7 @@ Backend Developer | Building the logic | Problem Solver
 ### 🔹 Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 </p>
 
 ### 🔹 Tools & Workflow
@@ -78,27 +78,38 @@ Backend Developer | Building the logic | Problem Solver
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:mukhtarrahimi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=22D3EE" />
+  <a href="mailto:mukhtarrahimi.dev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="48" />
   </a>
-  <a href="https://github.com/Mukhtarrahimi">
-    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mukhtarrahimi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" />
   </a>
-  <a href="https://www.linkedin.com/in/mukhtar-rahimi-b98b75382/">
-    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mukhtar-rahimi-b98b75382/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="48" />
   </a>
-  <a href="https://mukhtarrahimi.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22D3EE" />
+  &nbsp;&nbsp;
+  <a href="https://mukhtarrahimi.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" />
   </a>
-  <a href="https://t.me/Rahimi_code">
-    <img src="https://img.shields.io/badge/Telegram-020617?style=for-the-badge&logo=telegram&logoColor=22D3EE" />
+  &nbsp;&nbsp;
+  <a href="https://t.me/Rahimi_code" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" />
   </a>
-  <a href="https://wa.me/93787999084">
-    <img src="https://img.shields.io/badge/WhatsApp-020617?style=for-the-badge&logo=whatsapp&logoColor=22D3EE" />
+  &nbsp;&nbsp;
+  <a href="https://wa.me/93787999084" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="48" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61569174538114">
-    <img src="https://img.shields.io/badge/Facebook-020617?style=for-the-badge&logo=facebook&logoColor=22D3EE" />
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61569174538114" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" width="48" />
   </a>
+  &nbsp;&nbsp;
+<a href="https://www.instagram.com/mukhtarrahime" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="48" />
+</a>
+
 </p>
 
 ---
