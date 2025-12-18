@@ -49,7 +49,7 @@ Backend Developer | Building the logic | Problem Solver
 ### 🔹 Tools & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
 </p>
 
 ---
